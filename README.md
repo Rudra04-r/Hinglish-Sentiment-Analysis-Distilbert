@@ -72,8 +72,6 @@ text = "Product accha hai but delivery late thi"
 print(predict(text))
 ```
 
----
-
 
 ## 📘 Research Paper
 
